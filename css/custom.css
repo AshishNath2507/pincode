@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Gentium+Book+Plus:ital,wght@1,700&family=Roboto+Flex:opsz,wght@8..144,200&display=swap');
+
+.regulations li{
+    font-family: 'Roboto Flex', sans-serif;
+}
+.regulations ul{
+    font-family: 'Bebas Neue', cursive;
+}
+.election-para{
+    font-family: 'Gentium Book Plus', serif;
+    text-shadow: 2px 2px 4px #ededed;
+}
+
+.carousel {
+    /* max-width: 500px;
+    height: 500px; */
+}
+
+.carousel img {
+    height: 400px;
+    width: 500px;
+}
+
+.jecpara {
+    padding: 50px 40px;
+}
+
+.space {
+    color: #fff;
+    background-color: #337171;
+}
+
+.coloosal {
+    margin: 0 0 20px 0;
+}
+
+.services{
+    /* margin: 30px 122px; */
+}
+
+.services-grid {
+    background-color: #337171;
+}
+
+.services-grid > div {
+    /* margin: 10px 20px; */
+    border-radius: 0 50px 0 50px;
+}
+
+.card-icons {
+    width: 60px;
+    height: 60px;
+    padding: 40px 0;
+}
+
+.shadow{
+    background-color: white;
+    /* color: white; */
+}
+
+.about {
+    margin: 2rem auto;
+}
+
+.vote-img {
+    height: 400px;
+    width: 600px;
+}
